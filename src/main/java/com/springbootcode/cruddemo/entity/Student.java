@@ -74,7 +74,7 @@ public class Student {
         return "Student{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
-                ", lasttName='" + lasttName + '\'' +
+                ", lasttName= '" + lasttName + '\'' +
                 ", email='" + email + '\'' +
                 '}';
     }
